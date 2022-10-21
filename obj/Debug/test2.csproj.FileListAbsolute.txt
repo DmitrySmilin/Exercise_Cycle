@@ -1,0 +1,8 @@
+C:\C#\Work\New\test2\bin\Debug\test2.exe.config
+C:\C#\Work\New\test2\bin\Debug\test2.exe
+C:\C#\Work\New\test2\bin\Debug\test2.pdb
+C:\C#\Work\New\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\C#\Work\New\test2\obj\Debug\test2.csproj.SuggestedBindingRedirects.cache
+C:\C#\Work\New\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\C#\Work\New\test2\obj\Debug\test2.exe
+C:\C#\Work\New\test2\obj\Debug\test2.pdb
